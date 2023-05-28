@@ -1,8 +1,23 @@
 body{
     color: #333;
     text-align: right;
-    font-family: Courier;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 16px;
+}
+
+#cabecera{
+    background: #33A;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container{
@@ -15,4 +30,8 @@ body{
 
 #container h1{
     font-size: 25px;
+}
+
+#post{
+    padding: 1em;
 }
