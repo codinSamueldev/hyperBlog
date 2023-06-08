@@ -42,3 +42,8 @@ body{
     background: white;
     padding: 1em;
 }
+
+#footer{
+    color: maroon;
+    background-color: greenyellow;
+}
