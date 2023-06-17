@@ -10,5 +10,6 @@ Un blog (aparentemente) increíble para el curso de Git y GitHub de Platzi.
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Acerca de los PR (Ya puedo reirme de chistes sin necesidad de fingir)
+* Creado por Yokas
 
 Muy melo, en mis proyectos personales aún no veo como aplicar lo aprendido, sin embargo, se que me servirá en futuro no muy lejano. 🤘
